@@ -29,7 +29,7 @@ export default function About() {
           >
             <div className="aspect-square relative rounded-xl overflow-hidden border-4 border-primary/20">
               <Image
-                src="/resume-pic.jpg?height=400&width=400"
+                src="/resume-pic.png?height=400&width=400"
                 alt="Aditya Mehto"
                 fill
                 className="object-cover"
